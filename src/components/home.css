@@ -1,0 +1,16 @@
+.navbar {
+  margin: 0;
+}
+
+#background {
+  position: relative;
+}
+
+h2 {
+  position: absolute;
+  top: 20%;
+  text-align: center;
+  width: 100%;
+  font-family: 'Charm', cursive;
+  font-size: 40px;
+}

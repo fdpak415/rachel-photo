@@ -1,0 +1,15 @@
+.navbar .navbar-brand {
+  font-family: 'Charm', cursive;
+  font-size: 35px;
+  color: black;
+}
+
+.a {
+  font-family: 'Charm', cursive;
+}
+
+#head-center {
+  position: absolute;
+  margin-top: 6px;
+  font-size: 20px;
+}

@@ -1,0 +1,14 @@
+.row {
+  font-family: 'Crimson Text', serif;
+  font-size: 26px;
+}
+#h1 {
+  text-align: center;
+  margin: 0;
+  font-size: 45px;
+  padding: 15px;
+}
+
+.img-responsive {
+  padding: 15px;
+}
